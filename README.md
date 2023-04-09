@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/dcbxk8loxqp6j5w7?svg=true)](https://ci.appveyor.com/project/Gto1103/ra-hoc-time)
+[![Build status](https://ci.appveyor.com/api/projects/status/y7uohgq0fcik7co8?svg=true)](https://ci.appveyor.com/project/Gto1103/ra-hoc-highlight)
 
 [Страница проекта](https://gto1103.github.io/ra-hoc-highlight/)
 
